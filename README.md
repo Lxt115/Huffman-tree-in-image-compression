@@ -1,5 +1,4 @@
 # Huffman-tree-in-image-compression
-数据结构大作业：
 二叉树与哈夫曼图片压缩
 
 掌握树的存储结构
